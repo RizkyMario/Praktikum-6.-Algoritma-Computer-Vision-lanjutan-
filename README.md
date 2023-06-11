@@ -1,7 +1,4 @@
-# Praktikum-6.-Algoritma-Computer-Vision-lanjutan-
-
------- Tugas Praktikum Kecerdasan Buatan ------
-
+# Praktikum Kecerdasan Buatan
 Nama  : Mario  Rizky Saputra
 
 NIM   : G.231.20.0142
